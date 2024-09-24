@@ -27,8 +27,8 @@ class MainActivity : ComponentActivity() {
             HappyBirthdayTheme {
                 Surface(modifier = Modifier.fillMaxSize()) {
                     GreetingText(
-                        message = "Android",
-                        from = "Emma",
+                        message = "Happy Birthday Sam!",
+                        from = "From Emma",
                         modifier = Modifier.padding(8.dp),
                     )
                 }
